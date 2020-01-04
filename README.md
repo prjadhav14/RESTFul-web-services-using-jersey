@@ -12,3 +12,4 @@ Step to follow :-
 8. Install MySQL and create database employees (Follow https://github.com/datacharmer/test_db)
 9. Test your application and understand the working using resource, repository and entity files.
 10. I have used PostMan as a client to send requests to the server.
+11. See .png file for better understanding of implementation.
